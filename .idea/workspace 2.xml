@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4376305-1f34-4a58-9084-d82821c630d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Backtrack/job_3/Activity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Backtrack/job_3/Question_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/job_3/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/job_6/ExhibitionHall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Backtrack/job_2/Question_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Backtrack/job_2/Question_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Backtrack/job_3/P3$Activty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Backtrack/job_3/P3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/job_2/Question_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/job_2/Question_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/job_3/Question_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/job_3/Question_3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kN0wm7oQUskUYwlYkX5BuyOQjV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/job_1" />
+      <recent name="$PROJECT_DIR$/src/job_3" />
+      <recent name="$PROJECT_DIR$/src/job_2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InterHPNumber">
+    <configuration name="InterHPNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="job_5.InterHPNumber" />
+      <module name="Backtrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="job_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="job_2.Question_2" />
+      <module name="Backtrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="job_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="job_3.Question_3" />
+      <module name="Backtrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="job_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="job_1.T1" />
+      <module name="Backtrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="job_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BjobScheduleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Backtrack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="job_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="job_4" />
+      <option name="MAIN_CLASS_NAME" value="job_4.BjobScheduleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InterHPNumber" />
+        <item itemvalue="Application.Question_3" />
+        <item itemvalue="Application.Question_2" />
+        <item itemvalue="Application.T1" />
+        <item itemvalue="JUnit.BjobScheduleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4376305-1f34-4a58-9084-d82821c630d8" name="Default Changelist" comment="" />
+      <created>1605525984785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605525984785</updated>
+      <workItem from="1605525985992" duration="4877000" />
+      <workItem from="1605531667984" duration="23745000" />
+      <workItem from="1605685601962" duration="5973000" />
+      <workItem from="1605708541513" duration="3156000" />
+    </task>
+    <task id="LOCAL-00001" summary="回溯法作业">
+      <created>1605686366720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605686366721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="回溯法作业" />
+    <option name="LAST_COMMIT_MESSAGE" value="回溯法作业" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="27" key="#Project_Structure" timestamp="1605526002263">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="27" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1605526002263" />
+    <state x="608" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605689960745">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="608" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605689960745" />
+    <state x="414" y="43" key="CommitChangelistDialog2" timestamp="1605708575029">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="414" y="43" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1605708575029" />
+    <state x="552" y="111" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605686366550" />
+    <state width="1876" height="204" key="GridCell.Tab.0.bottom" timestamp="1605691725882">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1876" height="204" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605691725882" />
+    <state width="1876" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605691620621" />
+    <state width="1396" height="291" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1605531654829" />
+    <state width="1876" height="204" key="GridCell.Tab.0.center" timestamp="1605691725880">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1876" height="204" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605691725880" />
+    <state width="1876" height="204" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605691620620" />
+    <state width="1396" height="291" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1605531654829" />
+    <state width="1876" height="204" key="GridCell.Tab.0.left" timestamp="1605691725880">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1876" height="204" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605691725880" />
+    <state width="1876" height="204" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605691620620" />
+    <state width="1396" height="291" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1605531654828" />
+    <state width="1876" height="204" key="GridCell.Tab.0.right" timestamp="1605691725881">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1876" height="204" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605691725881" />
+    <state width="1876" height="204" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605691620621" />
+    <state width="1396" height="291" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1605531654829" />
+    <state width="1876" height="204" key="GridCell.Tab.1.bottom" timestamp="1605691725884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1876" height="204" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605691725884" />
+    <state width="1876" height="204" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605691620623" />
+    <state width="1396" height="291" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1605531654830" />
+    <state width="1876" height="204" key="GridCell.Tab.1.center" timestamp="1605691725883">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1876" height="204" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1605691725883" />
+    <state width="1876" height="204" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605691620622" />
+    <state width="1396" height="291" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1605531654830" />
+    <state width="1876" height="204" key="GridCell.Tab.1.left" timestamp="1605691725883">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1876" height="204" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1605691725883" />
+    <state width="1876" height="204" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605691620622" />
+    <state width="1396" height="291" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1605531654829" />
+    <state width="1876" height="204" key="GridCell.Tab.1.right" timestamp="1605691725883">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1876" height="204" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1605691725883" />
+    <state width="1876" height="204" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605691620622" />
+    <state width="1396" height="291" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1605531654830" />
+    <state x="627" y="318" key="Vcs.Push.Dialog.v2" timestamp="1605686601114">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="627" y="318" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605686601114" />
+    <state x="432" y="359" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605579127708">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="359" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1605579127708" />
+    <state x="258" y="189" width="924" height="625" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605597309576">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="189" width="924" height="625" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1605597309576" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1605531692080">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1605531692080" />
+    <state x="115" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1605595066767">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="115" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1605595066767" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Backtrack_4$BjobScheduleTest.ic" NAME="BjobScheduleTest Coverage Results" MODIFIED="1605582865160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>job_4.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Backtrack_4$BjobSchedule.ic" NAME="BjobSchedule Coverage Results" MODIFIED="1605581094381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>job_4.*</FILTER>
+    </SUITE>
+  </component>
+</project>
